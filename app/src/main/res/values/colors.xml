@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="crueBack">#3E0609</color>
+    <color name="crueText">#AB4A00</color>
+    <color name="crueLink">#0D8C00</color>
+</resources>
